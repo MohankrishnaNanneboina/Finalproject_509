@@ -1,0 +1,17 @@
+[
+  {
+    "studentId": 1,
+    "teacherId": 4,
+    "subject": "Math"
+  },
+  {
+    "studentId": 2,
+    "teacherId": 1,
+    "subject": "English"
+  },
+  {
+    "studentId": 3,
+    "teacherId": 2
+    "subject": "Computers"
+  }
+ ]

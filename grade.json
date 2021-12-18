@@ -1,0 +1,17 @@
+[
+  {
+    "studentId": 1,
+    "subjectId": 2,
+    "marks": "250"
+  },
+  {
+    "studentId": 2,
+    "subjectId": 1,
+    "marks": "200"
+  },
+  {
+    "studentId": 2,
+    "subjectId": 3
+    "marks": "230"
+  }
+ ]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <teacherId>1</teacherId>
+    <Name>teacher 1</Name>
+    <qualification>M.Phil</qualification>
+  </row>
+  <row>
+    <teacherId>2</teacherId>
+    <Name>teacher 2</Name>
+    <qualification>P.hd Computers</qualification>
+  </row>
+  <row>
+  <teacherId>3</teacherId>
+    <Name>teacher 3</Name>
+    <qualification>P.hd</qualification>
+  </row>
+  <row>
+  <teacherId>4</teacherId>
+    <Name>teacher 4</Name>
+    <qualification>P.hd Computers</qualification>
+  </row>
+ </root>

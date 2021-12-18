@@ -1,0 +1,17 @@
+[
+  {
+    "subjectId": 1,
+    "name": "Math",
+    "isActive": "1"
+  },
+  {
+    "subjectId": 2,
+    "name": "English",
+    "isActive": "1"
+  },
+  {
+    "subjectId": 3,
+    "name": "Computers",
+    "isActive": "1"
+  }
+ ]
